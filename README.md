@@ -1,2 +1,2 @@
 # AI-Digital-Bookshelf-Downloads
-To download AD Digital Bookshelf artifacts
+To download AI Digital Bookshelf artifacts
