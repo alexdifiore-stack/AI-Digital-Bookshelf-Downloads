@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
     Uri="https://alexdifiore-stack.github.io/AI-Digital-Bookshelf-Downloads/AIDigitalBookshelf.appinstaller"
-    Version="1.0.0.0"
+    Version="1.0.1.0"
     xmlns="http://schemas.microsoft.com/appx/appinstaller/2018">
 
     <MainPackage
         Name="AIDigitalBookshelf"
         Publisher="CN=AI Digital Bookshelf"
-        Version="1.0.0.0"
+        Version="1.0.1.0"
         ProcessorArchitecture="neutral"
         Uri="https://alexdifiore-stack.github.io/AI-Digital-Bookshelf-Downloads/AIDigitalBookshelf.msix" />
 
