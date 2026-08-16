@@ -1,5 +1,5 @@
 {
-    "version": "1.0.24.0",
+    "version": "1.0.25.0",
     "url": "https://raw.githubusercontent.com/alexdifiore-stack/AI-Digital-Bookshelf-Downloads/main/AI_Digital_Bookshelf_Installer.exe",
     "mac_url": "https://raw.githubusercontent.com/alexdifiore-stack/AI-Digital-Bookshelf-Downloads/main/AI_Digital_Bookshelf.dmg",
     "release_notes": "Automated cross-platform build via GitHub Actions."
