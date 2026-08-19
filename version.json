@@ -1,5 +1,5 @@
 {
-    "version": "1.0.32.0",
+    "version": "1.0.33.0",
     "url": "https://raw.githubusercontent.com/alexdifiore-stack/AI-Digital-Bookshelf-Downloads/main/AI_Digital_Bookshelf_Installer.exe",
     "release_notes": "Transitioned to native installer with built-in auto updater for maximum performance."
 }
